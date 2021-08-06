@@ -1,0 +1,27 @@
+-- Joining departments and dept_manager tables
+SELECT departments.dept_name,
+     managers.emp_no,
+     managers.from_date,
+     managers.to_date
+FROM departments
+INNER JOIN managers
+ON departments.dept_no = managers.dept_no;
+
+-- Joining retirement_info and dept_emp tables
+SELECT retirement_info.emp_no,
+    retirement_info.first_name,
+	retirement_info.last_name,
+    dept_employees.to_date
+FROM retirement_info
+LEFT JOIN dept_employees
+ON retirement_info.emp_no = dept_employees.emp_no;
+
+SELECT retirement_info.emp_no,
+    retirement_info.first_name,
+    retirement_info.last_name,
+	dept_employees.to_date
+INTO current_employees
+FROM retirement_info
+LEFT JOIN dept_employees
+ON retirement_info.emp_no = dept_employees.emp_no
+WHERE dept_employees.to_date = ('9999-01-01');

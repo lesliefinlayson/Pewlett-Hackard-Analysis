@@ -1,0 +1,25 @@
+-- List of managers per department
+SELECT  managers.dept_no,
+        departments.dept_name,
+        managers.emp_no,
+        current_employees.last_name,
+        current_employees.first_name,
+        managers.from_date,
+       managers.to_date
+INTO manager_info
+FROM managers 
+    INNER JOIN departments 
+        ON (managers.dept_no = departments .dept_no)
+    INNER JOIN current_employees 
+        ON (managers.emp_no = current_employees.emp_no);
+
+SELECT current_employees.emp_no,
+current_employees.first_name,
+current_employees.last_name,
+departments.dept_name
+INTO dept_info
+FROM current_employees
+INNER JOIN dept_employees 
+ON (current_employees.emp_no = dept_employees.emp_no)
+INNER JOIN departments 
+ON (dept_employees.dept_no = departments .dept_no);
