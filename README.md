@@ -13,5 +13,6 @@ _The Number of Retiring Employees by Title_
 
 Knowing how many employees and managers are approaching retirement age by title provides more specific information about Pelwett Hackard's upcoming staffing needs.   
 
-<img width="131" alt="2021-08-06 (3)" src="https://user-images.githubusercontent.com/84471904/128579363-36228be6-d724-48be-8ace-a2ee9ea6f95b.png">
+<img width="132" alt="2021-08-06 (4)" src="https://user-images.githubusercontent.com/84471904/128579573-8c304ca3-0638-44d4-9849-7aebb9ee8ba3.png">
+
 
