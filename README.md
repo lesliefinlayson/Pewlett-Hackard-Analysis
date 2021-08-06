@@ -15,4 +15,5 @@ Knowing how many employees and managers are approaching retirement age by title 
 
 <img width="132" alt="2021-08-06 (4)" src="https://user-images.githubusercontent.com/84471904/128579573-8c304ca3-0638-44d4-9849-7aebb9ee8ba3.png">
 
+<img width="132" alt="2021-08-06 (4)" src="https://user-images.githubusercontent.com/84471904/128579613-a967f2e6-31dc-4069-9fe1-765a688f8da6.png">
 
