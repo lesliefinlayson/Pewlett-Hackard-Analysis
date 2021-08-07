@@ -29,7 +29,7 @@ These numbers indicate the following:
  
  The assignment to collect the employees who are eligible for the Mentorship Program includes current employees with birth dates between January 1, 1965 and December 31, 1965. 
  The following document was generated (please click):
- 
+
   [mentorship eligibility](data/mentorship_eligibility.csv)
   
   Viewing this document shows:
@@ -42,6 +42,13 @@ These numbers indicate the following:
 
 •	Reading through the to_dates (hire dates) show that the eligible employees have been with the company varying lengths of time.
 
+ ## Summary
+Completing the assignment as it was originally defined gives a good indication of what departments (by employee title) are going to be strongly impacted by the upcoming wave of retirements.  Determining if there are enough employees currently employed to backfill these positions is not clear with the current analysis.  The list of employees eligible for the Mentorship program is limited in several ways:
 
+•	Duplicates were not removed.  
+
+•	The data is orderd by employee number rather than by department
+
+•	The count was not generated
  
  
