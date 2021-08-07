@@ -15,7 +15,7 @@ Knowing how many employees and managers are approaching retirement age by title 
 
 <img width="134" alt="2021-08-06 (6)" src="https://user-images.githubusercontent.com/84471904/128579761-bd76a443-c608-43a5-9f4f-847a73e112e5.png">
 
-These numbers suggest the following:
+These numbers indicate the following:
 
 •	A high number of Senior Engineers will be retiring in the near future and of concern
 
@@ -27,4 +27,7 @@ These numbers suggest the following:
 
  _The Employees Eligible for the Mentorship Program_
  
+ The assignment to collect the employees who are eligible for the Mentorship Program includes current employees with birth dates between January 1, 1965 and December 31, 1965. The following document was generated(please click):
  [mentorship eligibility](data/mentorship_eligibility.csv)
+ 
+ 
