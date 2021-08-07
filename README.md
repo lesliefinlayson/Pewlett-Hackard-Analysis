@@ -27,7 +27,9 @@ These numbers indicate the following:
 
  _The Employees Eligible for the Mentorship Program_
  
- The assignment to collect the employees who are eligible for the Mentorship Program includes current employees with birth dates between January 1, 1965 and December 31, 1965. The following document was generated(please click):
- [mentorship eligibility](data/mentorship_eligibility.csv)
+ The assignment to collect the employees who are eligible for the Mentorship Program includes current employees with birth dates between January 1, 1965 and December 31, 1965. 
+ The following document was generated(please click):
+ 
+                 [mentorship eligibility](data/mentorship_eligibility.csv)
  
  
