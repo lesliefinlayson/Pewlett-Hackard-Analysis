@@ -45,10 +45,13 @@ These numbers indicate the following:
  ## Summary
 Completing the assignment as it was originally defined gives a good indication of what departments (by employee title) are going to be strongly impacted by the upcoming wave of retirements.  Determining if there are enough employees currently employed to backfill these positions is not clear with the current analysis.  The list of employees eligible for the Mentorship program is limited in several ways:
 
-•	Duplicates were not removed.  
+•	Duplicates were not removed
 
 •	The data is orderd by employee number rather than by department
 
 •	The count was not generated
+ 
+ To address these limitations, an additional table was created with these results:
+ 
  
  
