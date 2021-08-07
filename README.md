@@ -55,7 +55,9 @@ Completing the assignment as it was originally defined gives a good indication o
  
 <img width="349" alt="2021-08-06 (11)" src="https://user-images.githubusercontent.com/84471904/128583436-7f188900-20f8-4186-ab10-e85c8bbadeee.png">
 
+Comparing this table with the table showing retiring employees, it becomes clear that there are not enough eligible employees for the Mentorship Program to backfill the positions that will become open.  For example, over 13,000 Senior Engineers are retiring and only 169 Senior Engineers are eligible for the mentorship program.  
 
+Other measures will be needed to backfill the positions that will be made open from the "silver tsunami".  The pool of current eligible employees for the Mentorship Program can be increased by increasing the birthdate rate to more than one year.  It may be advisable as well to consider hiring additional employees.  Also, positions can be individually reviewed to see if they all are necessary, can some not be backfilled and Pewlett Hackard able to maintain its standards of excellence.
  
  
  
