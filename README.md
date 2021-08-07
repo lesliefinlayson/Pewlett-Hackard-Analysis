@@ -53,5 +53,9 @@ Completing the assignment as it was originally defined gives a good indication o
  
  To address these limitations, an additional table was created with these results:
  
+<img width="349" alt="2021-08-06 (11)" src="https://user-images.githubusercontent.com/84471904/128583436-7f188900-20f8-4186-ab10-e85c8bbadeee.png">
+
+
+ 
  
  
