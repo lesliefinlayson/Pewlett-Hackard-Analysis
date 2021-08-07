@@ -31,5 +31,17 @@ These numbers indicate the following:
  The following document was generated (please click):
  
   [mentorship eligibility](data/mentorship_eligibility.csv)
+  
+  Viewing this document shows:
+  
+•	There are a large number of employees who satisfy the conditions of currently employed and born in 1965
+
+•	Scrolling to the end of the document shows that there are 2382 entries for employees.  
+
+•	Reading through the titles shows that the eligible employees have a variety of titles.
+
+•	Reading through the to_dates (hire dates) show that the eligible employees have been with the company varying lengths of time.
+
+
  
  
