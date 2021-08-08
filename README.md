@@ -11,24 +11,23 @@ Because a significantly large number of Pewlett Hackard's employees and managers
 
 _The Number of Retiring Employees by Title_
 
-Knowing how many employees and managers are approaching retirement age by title provides more specific information about Pelwett Hackard's upcoming staffing needs.   
+Knowing how many employees and managers are approaching retirement age by title provides more specific information about Pelwett Hackard's upcoming open positions and staffing needs.   
 
 <img width="134" alt="2021-08-06 (6)" src="https://user-images.githubusercontent.com/84471904/128579761-bd76a443-c608-43a5-9f4f-847a73e112e5.png">
 
 These numbers indicate the following:
 
-•	A high number of Senior Engineers will be retiring in the near future and of concern
+•	A high number of Senior Engineers will be retiring and of concern and high priority
 
-•	A high number of Senior Staff will be retiring in the near future and of concern
+•	A high number of Senior Staff will be retiring and of concern and high priority
 
-•	A moderate number of Engineers, Staff, and Technique Leaders will be retiring
+•	A moderate number of Engineers, Staff, and Technique Leaders will be retiring and will need to be addressed
 
 •	A low number of Assistant Engineers are retiring and very few Managers
 
  _The Employees Eligible for the Mentorship Program_
  
- The assignment to collect the employees who are eligible for the Mentorship Program includes current employees with birth dates between January 1, 1965 and December 31, 1965. 
- The following document was generated (please click):
+ The assignment to determine the employees who are eligible for the Mentorship Program collects a list of current employees with birth dates between January 1, 1965 and December 31, 1965. The following document was generated (please click):
 
   [mentorship eligibility](data/mentorship_eligibility.csv)
   
@@ -47,7 +46,7 @@ Completing the assignment as it was originally defined gives a good indication o
 
 •	Duplicates were not removed
 
-•	The data is orderd by employee number rather than by department
+•	The data is orderd by employee number rather than by department 
 
 •	The count was not generated
  
@@ -57,7 +56,7 @@ Completing the assignment as it was originally defined gives a good indication o
 
 Comparing this table with the table showing retiring employees, it becomes clear that there are not enough eligible employees for the Mentorship Program to backfill the positions that will become open.  For example, over 13,000 Senior Engineers are retiring and only 169 Senior Engineers are eligible for the mentorship program.  
 
-Other measures will be needed to backfill the positions that will be made open from the "silver tsunami".  The pool of current eligible employees for the Mentorship Program can be increased by increasing the birthdate rate to more than one year.  It may be advisable as well to consider hiring additional employees.  Also, positions can be individually reviewed to see if they all are necessary, can some not be backfilled and Pewlett Hackard able to maintain its standards of excellence.
+Other measures will be needed to backfill the positions that will be made open from the "silver tsunami".  The pool of current eligible employees for the Mentorship Program can be increased by expanding the search by birth date rate to more than one year.  It may be advisable to consider hiring outside of the company.  Further, positions can be individually reviewed to see if they all are valuable and necessary, can some not be backfilled and Pewlett Hackard able to maintain its standards of excellence.
  
  
  
